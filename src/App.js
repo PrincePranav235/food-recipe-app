@@ -31,7 +31,8 @@ function App() {
   };
   return (
     <div className="App">
-      <h1  className="head "><i class="material-icons brand-icon">dining</i>TechDudes' Food Court </h1>
+      <h1  className="head "><i class="material-icons brand-icon">dining</i>TechDudes' Food Court <h4>Owners:- &nbsp;&nbsp;Aditi Sinha &nbsp;&nbsp;  
+        Shikha Singh &nbsp;&nbsp;  Prince Pranav &nbsp;&nbsp;  Tarakant Suman</h4></h1>
       <Header
         search={search}
         onInputChange={onInputChange}
