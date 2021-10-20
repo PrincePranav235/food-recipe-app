@@ -13,7 +13,7 @@ const Recipes = props => {
             <div class="card-body">
               <h6>{recipe.recipe.label}</h6>
               <div class="u" >
-                <a href={recipe.recipe.url} target="_blank" ><h6>Recipe</h6></a>
+                <a href={recipe.recipe.url} target="_blank" ><button class="b">Recipe</button></a>
                  </div>
               </div>
               </div>
