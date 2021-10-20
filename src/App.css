@@ -48,3 +48,25 @@
   .card{
     padding: 10px;
   }
+h4{
+    padding:10px;
+    margin:0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(199, 62, 62);
+    text-align: center;
+  }
+  button{
+    border:0px;
+    margin: 0px;
+    padding:5px;
+    background-color:palegoldenrod;
+    text-decoration: none;
+
+  }
+  button:hover{
+    background-color: rgb(241, 206, 6);
+
+
+  }
